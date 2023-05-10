@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Disney Plus Analysis</title>
+  <style>
+    .image-container {
+      display: flex;
+      justify-content: center;
+    }
+    .image-container img {
+      width: 300px;
+      height: auto;
+      margin: 10px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Chat Title</h1>
+  
+  <div class="image-container">
+    <img src="disney+_RC_Final.html" alt="File 1">
+    <img src="disney+_erwin_final.html" alt="File 2">
+    <img src="production countries.html" alt="File 3">
+  </div>
+  
+  <h2>Download Links</h2>
+  <ul>
+    <li><a href="disney+_RC_Final.html" download>Download File 1</a></li>
+    <li><a href="disney+_erwin_final.html" download>Download File 2</a></li>
+    <li><a href="production countries.html" download>Download File 3</a></li>
+  </ul>
+</body>
+</html>
